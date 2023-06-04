@@ -1,0 +1,16 @@
+
+#root{
+  height: 100vh;
+}
+.leaflet-container{
+  height: 90vh;
+  position: relative;
+    left: auto;
+    right: auto;
+    margin-right: 330px;
+    margin-left: 20px;
+    bottom: 13px;
+    outline-style: none;
+    border-radius: 16px;
+}
+
